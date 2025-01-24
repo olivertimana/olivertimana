@@ -5,7 +5,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-I am a student of systems engineering. I am expanding my knowledge in both front-end and back-end development. I love learning and building something new, productive, innovative and creative.
+I am a student of systems engineering.
 
 ## My Skills Include
 
