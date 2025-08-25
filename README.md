@@ -12,7 +12,7 @@ I am a student of systems engineering.
 
 ## Check out my Social Media
 
-<a href= "#">
+<a href= "https://www.linkedin.com/in/olivertimana">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="#" >
